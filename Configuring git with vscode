@@ -1,0 +1,4 @@
+1. install git and edit the system path variable to include C:/Program Files/Git/cmd/ and C:/Program Files/Git/bin/
+2. open a new folder / existing folder in vs code where we want to work with an offline version of our repo
+3. type git clone path/to/repo in the terminal 
+4. now start working
